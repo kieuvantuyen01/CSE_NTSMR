@@ -11,3 +11,4 @@ console.log
 console-DESKTOP-ECUE2O3.log
 console.log
 input/small/*
+__pycache__
